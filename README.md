@@ -14,6 +14,8 @@ Use [Etcher](https://www.balena.io/etcher)
 
 on Boot by pressing F2 or F12
 
+## Step 4: Connect Wi-Fi
+
 ```bash
 $iwctl
 ```
